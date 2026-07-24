@@ -1,0 +1,40 @@
+html,
+body,
+#app {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  overflow: hidden;
+  background: #1d2935;
+  touch-action: none;
+  user-select: none;
+}
+
+canvas {
+  display: block;
+}
+
+.player-name-input {
+  position: fixed;
+  z-index: 1000;
+  box-sizing: border-box;
+  border: 3px solid rgba(49, 86, 109, 0.38);
+  border-radius: 0;
+  background: rgba(255, 255, 255, 0.96);
+  color: #31566d;
+  font-family: "Arial Black", Arial, sans-serif;
+  font-weight: 900;
+  letter-spacing: 0;
+  text-align: center;
+  text-transform: uppercase;
+  outline: none;
+  user-select: text;
+}
+
+.player-name-input::placeholder {
+  color: #31566d;
+  opacity: 1;
+}

@@ -1,0 +1,41 @@
+
+> flappy-lu@1.0.0 dev
+> vite --host 0.0.0.0 --host 0.0.0.0 --port 5174
+
+
+  [32m[1mVITE[22m v7.3.6[39m  [2mready in [0m[1m279[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5174[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.0.229:[1m5174[22m/[39m
+[2m12:01:49 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/scenes/GameOverScene.js[22m
+[2m12:06:14 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/scenes/PreloadScene.js[22m
+[2m12:06:14 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/scenes/GameOverScene.js[22m
+[2m12:06:15 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/shared/storage.js[22m
+[2m12:06:16 PM[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m12:06:16 PM[22m [36m[1m[vite][22m[39m server restarted.
+[2m12:09:55 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/shared/constants.js[22m
+[2m12:20:09 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/shared/storage.js[22m
+[2m12:20:14 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/scenes/GameOverScene.js[22m
+[2m12:20:35 PM[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m12:20:35 PM[22m [36m[1m[vite][22m[39m server restarted.
+[2m12:24:54 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/shared/storage.js[22m
+[2m12:25:00 PM[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m12:25:00 PM[22m [36m[1m[vite][22m[39m server restarted.
+[2m12:30:48 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/shared/constants.js[22m
+[2m12:31:02 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/shared/storage.js[22m
+[2m12:31:08 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/shared/storage.js[22m
+[2m12:31:24 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/scenes/GameOverScene.js[22m
+[2m12:31:33 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/shared/constants.js[22m
+[2m12:33:06 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/shared/storage.js[22m
+[2m12:33:12 PM[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m12:33:12 PM[22m [36m[1m[vite][22m[39m server restarted.
+[2m12:40:44 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/shared/storage.js[22m
+[2m12:40:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/scenes/GameOverScene.js[22m
+[2m12:43:59 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/shared/storage.js[22m
+[2m12:44:12 PM[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m12:44:12 PM[22m [36m[1m[vite][22m[39m server restarted.
+[2m1:00:30 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/shared/constants.js[22m
+[2m1:00:31 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/shared/storage.js[22m
+[2m1:00:32 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/scenes/MenuScene.js[22m
+[2m1:00:33 PM[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m1:00:33 PM[22m [36m[1m[vite][22m[39m server restarted.
