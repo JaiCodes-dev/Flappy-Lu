@@ -8,6 +8,7 @@ const DATA_DIR = path.resolve('data');
 const LEADERBOARD_FILE = path.join(DATA_DIR, 'leaderboard.json');
 
 export default defineConfig({
+  publicDir: 'assets',
   server: {
     host: '0.0.0.0'
   },
